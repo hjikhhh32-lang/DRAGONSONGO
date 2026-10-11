@@ -23,7 +23,7 @@ on:
 jobs:
   build:
     runs-on: windows-latest
-    timeout-minutes: 150
+    timeout-minutes: 
 
     steps:
     - name: Checkout Repository
